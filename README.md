@@ -1,2 +1,2 @@
 # odin-recipes
-LearningPhase : recipe project 
+LearningPhase : Recipe project from the odin curriculum 
